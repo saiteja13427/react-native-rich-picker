@@ -1,0 +1,35 @@
+{
+  "name": "react-native-rich-picker",
+  "version": "0.0.1",
+  "description": "A rich picker component for react native",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiteja13427/react-native-rich-picker.git"
+  },
+  "keywords": [
+    "picker",
+    "react-native",
+    "react-component"
+  ],
+  "author": "Sai Teja <saiteja13427@gmail.com> lightmap.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saiteja13427/react-native-rich-picker/issues"
+  },
+  "homepage": "https://github.com/saiteja13427/react-native-rich-picker#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.67.4"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-native-modal": "^13.0.1"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.70.0"
+  }
+}
