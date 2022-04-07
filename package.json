@@ -1,6 +1,6 @@
 {
   "name": "react-native-rich-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A rich picker component for react native",
   "main": "./src/index.js",
   "scripts": {
