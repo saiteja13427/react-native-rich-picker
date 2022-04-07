@@ -2,6 +2,11 @@
 
 A highly customisable picker for react native.
 
+<div style="display: flex; justify-content: center">
+<img src=".github/images/picker.jpeg" height="500" style="margin: 10px"/>
+<img src=".github/images/picker-modal.jpeg" height="500" style="margin: 10px"/>
+</div>
+
 ## Features
 
 1. A customisable picker bar with text and right icon.
