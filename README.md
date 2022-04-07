@@ -3,16 +3,16 @@
 A highly customisable picker for react native.
 
 ## Features
----
+
 1. A customisable picker bar with text and right icon.
 2. A modal which pops up with the picker choices you give.
 
 ## Setup
----
+
 You can install this library via npm by: `npm i react-native-rich-picker`
 
 ## Usage
----
+
 Following are the steps to start using this picker.
 
 1. Import
@@ -115,7 +115,7 @@ export default App;
 ```
 
 ## Available Props
----
+
 | Name                             | Type                 | Default                        | Description                                                                                                                                |
 | -------------------------------- | -------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | `data` (**Required**)                   | `objects[]` | `NA`                    | An array of objects with every object as a option/choice  having a title and value fields which will be the title and value of the respective picker choice/option                                                                                                                        |
