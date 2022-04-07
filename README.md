@@ -1,6 +1,22 @@
 # react-native-rich-picker
 
+<div align="center" style="">
+  <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native Rich Picker is released under the MIT license." />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=saai_tejaa">
+    <img src="https://img.shields.io/twitter/follow/saai_tejaa?style=social" alt="Follow @saai_tejaa" />
+  </a>
+  <a href="https://badge.fury.io/js/react-native-rich-picker">
+    <img src="https://badge.fury.io/js/react-native-rich-picker.svg" alt="npm package version" />
+  </a>
+  <a href="https://github.com/prettier/prettier">
+    <img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="Styles with prettier" />
+  </a>
+</div>
+
 A highly customisable picker for react native.
+
 
 <div style="display: flex; justify-content: center">
 <img src=".github/images/picker.jpeg" height="500" style="margin: 10px"/>
