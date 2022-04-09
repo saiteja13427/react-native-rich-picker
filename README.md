@@ -221,6 +221,12 @@ npm run lint
 
 The package uses `prettier` for formatting. It is recommended to have prettier installed and use the prettier config file provided to format the code before raising a pull request.
 
+## Compatibility
+
+The package is tested and compatible with `android`.
+
+The package is yet to be tested on `IOS`.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
