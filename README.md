@@ -217,7 +217,7 @@ npm run lint
 
 **Note:** Do go through eslint config file and strictly follow the coding style for contributions.
 
-## Formatting
+### Formatting
 
 The package uses `prettier` for formatting. It is recommended to have prettier installed and use the prettier config file provided to format the code before raising a pull request.
 
