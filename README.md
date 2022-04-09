@@ -202,8 +202,24 @@ npm pack (in the root)
 
 cd examples
 
-npm i ../react-native-rich-picker-0.0.1.tgz
+npm i ../react-native-rich-picker-v.v.v.tgz
 ```
+
+Replace v.v.v with the current version of the package.
+
+### ESLint
+
+ESLint has been setup and you can now use the following command to lint the package code.
+
+```
+npm run lint
+```
+
+**Note:** Do go through eslint config file and strictly follow the coding style for contributions.
+
+## Formatting
+
+The package uses `prettier` for formatting. It is recommended to have prettier installed and use the prettier config file provided to format the code before raising a pull request.
 
 ## Contributing
 
